@@ -1,0 +1,13 @@
+name = "Cobblemon: Mega Showdown"
+filename = "mega_showdown-neoforge-1.4.4+1.7.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15293d590cf545bcacce9b885974880f8ae50220"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7299861
+project-id = 1189523

@@ -1,0 +1,13 @@
+name = "Cobblemon Trainer Structures"
+filename = "cobblemonopponents-neoforge-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8be278f5beda5653a516621caad1b909a7f322e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7290685
+project-id = 1305471

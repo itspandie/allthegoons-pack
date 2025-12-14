@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = /home/rj/.local/share/PrismLauncher/instances/All the Mods 10 - ATM10/minecraft/saves/New World
+}
+

@@ -1,0 +1,14 @@
+{
+	"chapters/basic_power.snbt": {
+		quest.682034C680FDEDC2.quest_desc: {
+			new: [
+				"A &aMatriz de Indução&r do &9Mekanism&r é uma das melhores maneiras de armazenar sua energia.\\n\\nSe você está procurando o melhor armazenamento de energia que o Mekanism tem a oferecer, confira o capítulo de missão &aMekanism:&r &dReatores&r.\\n"
+				"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:center fit:true}"
+			]
+			old: [
+				"A &aMatriz de Indução&r do &9Mekanism&r é a maneira definitiva de armazenar sua energia.\\n\\nSe você está procurando o melhor armazenamento de energia do jogo, confira o capítulo de missões &aMekanism:&r &dReatores&r.\\n"
+				"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:center fit:true}"
+			]
+		}
+	}
+}

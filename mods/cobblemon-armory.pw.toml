@@ -1,0 +1,13 @@
+name = "Cobblemon: Armory"
+filename = "cobblemonarmory-1.4.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cab6050b428242da946177aca6f864f0119bae17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7165637
+project-id = 1264004

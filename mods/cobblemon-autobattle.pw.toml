@@ -1,0 +1,13 @@
+name = "Cobblemon Autobattle"
+filename = "cobblemon_autobattle-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "800e7897739f56ffa5854eaaf32a2025a4170757"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7285606
+project-id = 1328763

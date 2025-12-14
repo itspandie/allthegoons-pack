@@ -1,0 +1,22 @@
+{
+	"chapters/welcome.snbt": {
+		quest.3BC0A50886A3222B.title: {
+			new: "&dWelcome to All The Mods 10!"
+			old: "&dWelcome to All The Goons!"
+		}
+		quest.7658C1C663394E85.quest_desc: {
+			new: ["There are plenty of helpful commands within ATM. Here are a few:\\n\\n&e/sethome&r (name of home) | Lets you set a home that you can teleport back to using /home (name). Example: /sethome farm - then teleport with /home farm.\\n\\n&e/spawn&r | This will teleport you to the spawn of your overworld.\\n\\n&e/rtp&r | 'Random Teleport' will teleport you to a random location in the world.\\n\\nNote: These commands have cooldowns and limits. If you'd like to change them, you can edit the config file which can be found here:\\n\\n - For Singleplayer | &osaves/(name of save)/serverconfig/ftbessentials.snbt&r\\n\\n - For Servers | &oworld/serverconfig/ftbessentials.snbt&r"]
+			old: ["There are plenty of helpful commands within ATG. Here are a few:\\n\\n&e/sethome&r (name of home) | Lets you set a home that you can teleport back to using /home (name). Example: /sethome farm - then teleport with /home farm.\\n\\n&e/spawn&r | This will teleport you to the spawn of your overworld.\\n\\n&e/rtp&r | 'Random Teleport' will teleport you to a random location in the world.\\n\\nNote: These commands have cooldowns and limits. If you'd like to change them, you can edit the config file which can be found here:\\n\\n - For Singleplayer | &osaves/(name of save)/serverconfig/ftbessentials.snbt&r\\n\\n - For Servers | &oworld/serverconfig/ftbessentials.snbt&r"]
+		}
+		quest.3BC0A50886A3222B.quest_desc: {
+			new: ["ATM10 is a kitchensink pack that allows you to explore the world of modded Minecraft in your own way!\\n\\nIf you have any questions or issues, feel free to join the ATM discord!"]
+			old: ["ATG is a pack forked from ATM10, customized and modified to have extra mods so me and my friends don't have to CONTINUOUSLY download more mods that WE WANT in this pack.\\n\\nWe love the ATM Devs for the work that they do and in no way is this pack made to be a malicious attack to them! We just like to add our own mods to our favorite pack and want to make it easier <3"]
+		}
+	}
+	"chapters/mainquestline_part_1.snbt": {
+		quest.5CF320E9C4C1B1E1.quest_desc: {
+			new: ["ATM10 is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want!\\n\\nHowever, there is an endgame goal: Making the &6ATM Star&r!\\n\\nThis questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs.\\n\\nJust like almost every modpack, gather some wood to get started!"]
+			old: ["ATG is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want!\\n\\nHowever, there is an endgame goal: Making the &6ATM Star&r!\\n\\nThis questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs.\\n\\nJust like almost every modpack, gather some wood to get started!"]
+		}
+	}
+}

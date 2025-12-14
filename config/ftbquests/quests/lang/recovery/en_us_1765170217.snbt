@@ -1,0 +1,296 @@
+{
+	"chapters/occultism.snbt": {
+		quest.690B89D23134B624.quest_desc: {
+			new: [
+				"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK*!"
+				""
+				"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them!"
+				""
+				"&8*Does not include Foundation Chalk. Make the Void Chalk to include those&r"
+			]
+			old: [
+				"Grab your chalks, draw your &dRonaza's Contact&r ritual, and get ready to create the ULTIMATE CHALK!"
+				""
+				"Instead of having to lug around a full set of 16 chalks, you can use the Rainbow Chalk to paint a color-changing Rune that counts as any of them! "
+			]
+		}
+		quest.429B5A81DF6C43FE.title: {
+			new: "&6Odus' Open Convocation"
+			old: "&6Abras' Open Commanding Conjure"
+		}
+		quest.429B5A81DF6C43FE.quest_desc: {
+			new: [
+				"&6Odus' Open Convocation&r is used to bring an &cAfrit&r demon into a Pig. Because this ritual is performed without the use of Red Chalk, it's only powerful enough to summon an &9unbound&r demon."
+				""
+				"In particular, this ritual will create an &cAfrit&r-possessed Zombified Piglin, which will drop some Demonic Meat, which is used to craft Pink Chalk"
+				""
+				"&4WARNING: YOU MAY HAVE TO DO THIS ONE MULTIPLE TIMES TO GET ENOUGH DEMONIC MEAT."
+			]
+			old: [
+				"&6Abras' Open Commanding Conjure&r is used to bring an &cAfrit&r demon into a Pig. Because this ritual is performed without the use of Red Chalk, it's only powerful enough to summon an &9unbound&r demon."
+				""
+				"In particular, this ritual will create an &cAfrit&r-possessed Zombified Piglin, which will drop some Demonic Meat, which is used to craft Pink Chalk"
+				""
+				"&4WARNING: YOU MAY HAVE TO DO THIS ONE MULTIPLE TIMES TO GET ENOUGH DEMONIC MEAT."
+			]
+		}
+		quest.690B89D23134B624.title: {
+			new: "&zRainbow&r Chalk"
+			old: "&cR&6a&ei&an&9b&5o&dw&r Chalk"
+		}
+		quest.54378277B8D28B1D.quest_desc: {
+			new: [
+				"An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. "
+				""
+				"Has the same function as the Rainbow Chalk, except all the runes will show up as white. Additionally, it works for foundation chalk as well."
+			]
+			old: [
+				"An \"upgrade\" to the Rainbow Chalk, for those who don't like the rapid color-switching runes ruining their tediously crafted aesthetic. "
+				""
+				"Has the same function as the Rainbow Chalk, except all the runes will show up as white."
+			]
+		}
+		quest.7F09F8F98C13F11B.quest_desc: {
+			new: [
+				"What is a Demonic Ritual without a &cSacrifice&r! :D\\n\\nMost of the time, Demons just like items so don't be too afraid yet. However, if you have a favorite Cow, you might need to be worried. Sorry Betsy.\\n\\n&aSacrifical Bowls&r are used to place items needed for Rituals. These can be placed anywhere within the Ritual, as long as it isn't convering up any of the required Chalk. "
+				""
+				"For now, you'll only need four, but later on you'll need upwards of ten bowls for each ritual!\\n\\nThe &6Golden Ritual Bowl&r is used in the middle of the Ritual to activate it, and also usually needs a Book of Binding for the Ritual in it."
+			]
+			old: [
+				"What is a Demonic Ritual without a &cSacrifice&r! :D\\n\\nMost of the time, Demons just like items so don't be too afraid yet. However, if you have a favorite Cow, you might need to be worried. Sorry Betsy.\\n\\n&aSacrifical Bowls&r are used to place items needed for Rituals. These can be placed anywhere within the Ritual, as long as it isn't convering up any of the required Chalk. "
+				""
+				"For now, you'll only need four, but later on you'll need upwards of ten bowls for each ritual!\\n\\nThe &6Golden Sacrificial Bowl&r is used in the middle of the Ritual to activate it, and also usually needs a Book of Binding for the Ritual in it."
+			]
+		}
+		quest.08697EB269B011FD.quest_desc: {
+			new: [
+				"With &dRonaza's Contact&r, you can upgrade your &bIesnium Ritual Bowl&r to the Eldritch Chalice. When used in a ritual, reduces the time it takes to complete... entirely. "
+				""
+				"Yes, the Eldritch Chalice makes it so that all rituals complete instantly!"
+			]
+			old: [
+				"With &dRonaza's Contact&r, you can upgrade your &bIesnium Sacrificial Bowl&r to the Eldritch Chalice. When used in a ritual, reduces the time it takes to complete... entirely. "
+				""
+				"Yes, the Eldritch Chalice makes it so that all rituals complete instantly!"
+			]
+		}
+		quest.2E68E1D96B25336D.quest_desc: {
+			new: ["After fighting through a few Demon Possessed Zombified Piglins summoned by &6Odus' Open Convocation&r, you can use the Demonic Meat dropped by them to craft some Pink Chalk."]
+			old: ["After fighting through a few Demon Possessed Zombified Piglins summoned by &6Abras' Open Commanding Conjure&r, you can use the Demonic Meat dropped by them to craft some Pink Chalk."]
+		}
+	}
+	"chapters/productive_bees.snbt": {
+		quest.41D0CC616B762F4C.quest_desc: {
+			new: ["You can throw a &9Fluix Bee Spawn Egg&r and &8Entro Dust&r into Water to create an Entro Bee Spawn Egg."]
+			old: ["You can throw a &9Fluix Bee Spawn Egg&r and &8Entro Dust&r into Water to create a Sky Steel Bee Spawn Egg."]
+		}
+		quest.47CEFA06392C4211.quest_desc: {
+			new: ["Expansion boxes are placed on top of your Advanced Beehives to increase the amount of bees that can be in the hive to a total of 5 slots. These are also necessary for your Advanced Beehives to support upgrades."]
+			old: ["Expansion boxes are placed on top of your Advanced Beehives to increase the amount of bees that can be in the hive to a total of 5 slots."]
+		}
+		quest.3E301F3EEC8C763A.quest_desc: {
+			new: [
+				"This can be used to speed up the growth rate of baby Bees, or to create new Spawn Eggs.\\n\\nPlace a caged baby Bee with 20 Honey Treats to turn it into an adult.\\n\\nTo create Spawn Eggs, you'll need to combine the gene of the bee you want with a honey treat, then use that honey treat in this machine with an egg to create the new spawn egg.\\n\\nGenes can be combined for a maximum of 100% purity, which will give you a 100% chance to convert an Egg to a Bee Spawn Egg."
+				"{@pagebreak}"
+				"You can even apply genes to a bee without taking it out of its cage with this. Put a Honey Treat with the gene samples of your choice into the incubator along with a bee cage holding the bee you want to apply genes to."
+			]
+			old: [
+				"This can be used to speed up the growth rate of baby Bees, or to create new Spawn Eggs."
+				""
+				"Place a caged baby Bee with 20 Honey Treats to turn it into an adult."
+				""
+				"To create Spawn Eggs, you'll need to combine the gene of the bee you want with a honey treat, then use that honey treat in this machine with an egg to create the new spawn egg.\\n\\nGenes can be combined for a maximum of 100% purity, which will give you a 100% chance to convert an Egg to a Bee Spawn Egg."
+			]
+		}
+		quest.60B985069E0E643E.quest_subtitle: {
+			new: "Water + Lava"
+			old: "Magmatic + Sweat"
+		}
+	}
+	"chapters/apotheosis_gear.snbt": {
+		quest.097FDC136BC843A7.quest_desc: {
+			new: ["&lWorld Tier: &6Summit&r will need you to upgrade your &eArmor&r and &eTool/Weapon&r from &aUncommon&r to &9Rare&r (or better)! You'll also need to kill &0&lThe Wither&r. \\n\\n&0&lThe Wither&r doesn't need to be an &4Invader&r and honestly, it'll be easier if he isn't. \\n\\nIn &6&lSummit&r &5Epic&r &eItems &fand &2Gems&r will be the most common, and for &eItems&r you can now get &6Mythic&r and with &aGems&r you can find &zPerfect&r. Again, both being extremely rare! \\n\\nNow we'll get 75% Experience Gained and 50% Luck. \\n\\n&4Monsters&r will also be buffed to get 12 Armor Points, 10 Armor Toughness, 15 Armor Pierce, and 10 Protection Pierce. \\n\\nIs it just me or are their upgrades better than ours?"]
+			old: ["&lWorld Tier: &6Summit&r will need you to upgrade your &eArmor&r and &eTool/Weapon&r from &aUncommon&r to &9Rare&r (or better)! You'll also need to kill &0&lThe Wither&r. \\n\\n&0&lThe Wither&r doesn't need to be an &4Invader&r and honestly, it'll be easier if he isn't. \\n\\nIn &6&lSummit&r &5Epic&r &eItems &fand &2Gems&r will be the most common, and for &eItems&r you can now get &6Mythic&r and with &aGems&r you can find &cP&6e&er&ff&de&5c&4t&r. Again, both being extremely rare! \\n\\nNow we'll get 75% Experience Gained and 50% Luck. \\n\\n&4Monsters&r will also be buffed to get 12 Armor Points, 10 Armor Toughness, 15 Armor Pierce, and 10 Protection Pierce. \\n\\nIs it just me or are their upgrades better than ours?"]
+		}
+		quest.7EF873DCEB3B9D48.quest_desc: {
+			new: ["The last &lWorld Tier&r, &lWorld Tier: &4Pinnacle&r. To get it, you'll need to Kill the &d&lEnder Dragon&r atleast once, and equip all &5Epic&r or &6Mythic&r &eArmor &fand &eTool/Weapon&r. \\n\\nNow &5Epic&r and &6Mythic&r are most common for &aGems &fand &eTools&r, plus we are more likely to get &zPerfect&r gems! This comes at the loss of &8Common&r and &aUncommon&r but hey, who'll miss them! \\n\\nOn the same pattern of upgrades we'll get 125% Experience Gained and 100% Luck increase. \\n\\n&4Monsters&r will receive their final upgrade, getting: 16 Armor Points, 20 Armor Toughness, 25 Armor Pierce, and 20 Protection Pierce."]
+			old: ["The last &lWorld Tier&r, &lWorld Tier: &4Pinnacle&r. To get it, you'll need to Kill the &d&lEnder Dragon&r atleast once, and equip all &5Epic&r or &6Mythic&r &eArmor &fand &eTool/Weapon&r. \\n\\nNow &5Epic&r and &6Mythic&r are most common for &aGems &fand &eTools&r, plus we are more likely to get &cP&6e&er&ff&de&5c&4t&r gems! This comes at the loss of &8Common&r and &aUncommon&r but hey, who'll miss them! \\n\\nOn the same pattern of upgrades we'll get 125% Experience Gained and 100% Luck increase. \\n\\n&4Monsters&r will receive their final upgrade, getting: 16 Armor Points, 20 Armor Toughness, 25 Armor Pierce, and 20 Protection Pierce."]
+		}
+		quest.377A41499D8218C9.quest_desc: {
+			new: [
+				"The 1st &lWorld Tier&r is &l&9Haven&r! It being the first makes it the easiest to explore with and easiest to obtain. \\n\\nTo get it you just need to hold an &eAffixed Item&r in your Hand! It will automatically be set when unlocked. \\n\\nThe &lWorld Tier: &9Haven&r has highest chances for &8Common&r &aGear&r &fand &aGems&r. It can also have &aUncommon&r and very rarely, &9Rare&r."
+				""
+				"This is also the only &lWorld Tier&r where &4Invaders&r cannot spawn naturally."
+			]
+			old: [
+				"The 1st &lWorld Tier&r is &l&9Haven&r! It being the first makes it the easiest to explore with and easiest to obtain. \\n\\nTo get it you just need to hold an &eAffixed Item&r in your Hand! It will automatically be set when unlocked. \\n\\nThe &lWorld Tier: &9Haven&r has highest chances for &8Common&r &aGear&r &fand &aGems&r. It can also have &aUncommon&r and very rarely, &9Rare&r."
+				""
+				"This is also the only &lWorld Tier&r where &4Invaders&r cannot be fought."
+			]
+		}
+	}
+	"chapters/ice__fire.snbt": {
+		quest.2E0FBBE43D92CA42.quest_desc: {
+			new: ["Leads can be helpful, but they are very Weak! \\n\\nWhy not get an upgrade? \\n\\nChain Links will Tie to Mobs (including dangerous ones like &c&lDragons&r) and can be used to move them. \\n\\nOr restrain them like Leads by attaching the Chain Link to a Wall. Yes, like a Stone Wall! \\n\\nNo matter how much the Mob tries to escape the Link won't break! \\n\\nIf you do use it on a &c&lDragon&r though, make sure your walls cannot be broken by &c&lDragons&r..."]
+			old: ["Leads can be helpful, but they are very Weak! \\n\\nWhy not get an upgrade? \\n\\nChain Links will Tie to Mobs (including dangerous ones like &c&lDragons&r) and can be used to move them. \\n\\nOr restrain them like Leads by attaching the Chain Link to a Wall. Yes, like a Stone Wall! \\n\\nNo matter how much the Mob tries to escape the Link won't break! \\n\\nIf you do use it on a &c&lDragon&r though, make sure you Walls that &c&lDragons&r can't break..."]
+		}
+	}
+	"chapters/mekanism.snbt": {
+		quest.6DC1E08D019FD543.quest_desc: {
+			new: [
+				"Our &7Crystals&r will need even more &lProcessing&r! \\n\\nRepeat the previous steps of making a &6&lThermal Evaporation Plant&r to create &eBrine&r. \\n\\nUse an &9&lElectrolytic Separator&r to Separate the &eChlorine &ffrom the &eBrine&r. \\n\\nThen get &bOxygen&r from putting &9Water &finto an &9&lElectrolytic Separator&r. \\n\\nCombine the &eChlorine &fand &bHydrogen &fin a &a&lChemical Infuser&r to get &3Hydrogen Chloride&r! \\n\\nWith our &c&lChemical Injector&r, we can &cInject &fthe &7Crystals&f with &3Hydrogen Chloride&r to get 2 &7Ore Shards&r from each &7Ore Crystal&r."
+				"{image:atm:textures/questpics/mek/mek_tier4_3.png width:250 height:100 align:center}"
+			]
+			old: [
+				"Our &7Crystals&r will need even more &lProcessing&r! \\n\\nRepeat the previous steps of making a &6&lThermal Evaporation Plant&r to create &eBrine&r. \\n\\nUse an &9&lElectrolytic Separator&r to Separate the &eChlorine &ffrom the &eBrine&r. \\n\\nThen get &bOxygen&r from putting &9Water &finto an &9&lElectrolytic Separator&r. \\n\\nCombine the &eChlorine &fand &bOxygen &fin a &a&lChemical Infuser&r to get &3Hydrogen Chloride&r! \\n\\nWith our &c&lChemical Injector&r, we can &cInject &fthe &7Crystals&f with &3Hydrogen Chloride&r to get 2 &7Ore Shards&r from each &7Ore Crystal&r."
+				"{image:atm:textures/questpics/mek/mek_tier4_3.png width:250 height:100 align:center}"
+			]
+		}
+	}
+	"chapters/storage.snbt": {
+		quest.6E3D53D1C4569A89.quest_desc: {
+			new: ["Allows you to pump experience between you and the Backpack."]
+			old: ["Alloes you to pump experience between you and the Backpack."]
+		}
+	}
+	"chapters/tips_and_tricks.snbt": {
+		quest.7A514E27E1A7FE32.quest_desc: {
+			new: ["Diamonds also allow us to create some cool gadgets to help us build using the mod &l&cBuilding Gadgets&r.\\n\\nThese are great tools to help you build bigger bases, or for clearing out space using the &cDestruction Gadget&r.\\n\\nYou can even link these to an AE2 network by putting it into a Wireless Access Point!"]
+			old: ["Diamonds also allow us to create some cool gadgets to help us build using the mod &l&cBuilding Gadgets&r.\\n\\nThese are great tools to help you build bigger bases, or for clearing out space using the &cDestruction Gadget&r."]
+		}
+	}
+	"chapters/chapter_2_the_star.snbt": {
+		quest.6A12188E50EAEB78.quest_desc: {
+			new: ["The &zRainbow Furnaces&r will smelt a stack of Items at a time! \\n\\nTo craft it you will need a &zRainbow Core&r which needs 2 &cNetherite Furnaces&r and all the colors of the &zrainbow&r in Glass! \\n\\nThen, you'll need &zRainbow Plating&r which you get from combining almost every other Furnace in the mod. You'll need 2 of them to craft the &3&lImprobable Probablility Device&r."]
+			old: ["The &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs&r will smelt a stack of Items at a time! \\n\\nTo craft it you will need a &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&ar&9e&r which needs 2 &cNetherite Furnaces&r and all the colors of the &cr&6a&ei&2n&3b&9o&5w&r in Glass! \\n\\nThen, you'll need &cR&6a&ei&2n&3b&9o&5w&r &cP&6l&ea&at&3i&9n&5g&r which you get from combining almost every other Furnace in the mod. You'll need 2 of them to craft the &3&lImprobable Probablility Device&r."]
+		}
+		quest.6A12188E50EAEB78.title: {
+			new: "2 &zRainbow Furnaces"
+			old: "2 &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs"
+		}
+		quest.7D972A3C4211EB26.title: {
+			new: "&zRainbow Coal"
+			old: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
+		}
+		quest.5A955C0F53AED3ED.quest_desc: {
+			new: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nYou can get these mobs from killing a &9Lunar Monstrocity&r. "]
+			old: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nThe first two you can get as drops from a &5Tangled Hatred&r while the last you'll need to kill a &9Lunar Monstrocity&r. "]
+		}
+		quest.7D972A3C4211EB26.quest_desc: {
+			new: ["&zRainbow Coal&r is obtained by blowing up a &zRainbow Furnace&r."]
+			old: ["&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l&r is obtained by blowing up a &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&r."]
+		}
+	}
+	"chapters/basic_armor.snbt": {
+		quest.66B5A8D259E12BF5.quest_desc: {
+			new: ["Wait so you're telling me it has the same stats as &cNetherite&r? Plus Spell Boosts? \\n\\nWhy would anyone want regular &cNetherite&r!"]
+			old: ["Wait so you're telling me it has the same stats as &cNetherite&r? Plus Spell Boosts? And doesn't need Smithing Templates to craft? \\n\\nWhy would anyone want regular &cNetherite&r!"]
+		}
+	}
+	"chapters/extended__advanced_ae.snbt": {
+		quest.34FBD04361657724.quest_desc: {
+			new: [
+				"Throughout ExtendedAE, you will often be using &aEntro Crystals &ras a resource."
+				""
+				"To get the &aEntro Crystal&r, you will need a Fluix Block and an Entro Seed. Right click the Fluix Block with the Entro Seed."
+				""
+				"This will create &aBudding Entroized Fluix&r, which will, similarly to Budding Certus Quartz, grow Entro Buds around it. Unlike with Certus, its decay is inevitable."
+				""
+				"&aBudding Entroized Fluix&r will always drop &lone &r&aEntro Dust&r when broken, regardless of the state it's in. Entro Buds will drop Entro Shards when they aren't fully grown."
+			]
+			old: [
+				"Throughout ExtendedAE, you will often be using &aEntro Crystals &ras a resource."
+				""
+				"To get the &aEntro Crystal&r, you will need a Fluix Block and an Entro Seed."
+				""
+				"This will create &aBudding Entroized Fluix&r, which will, similarly to Budding Certus Quartz, grow Entro Buds around it. Unlike with Certus, its decay is inevitable."
+				""
+				"&aBudding Entroized Fluix&r will always drop &lone &r&aEntro Dust&r when broken, regardless of the state it's in. Entro Buds will drop Entro Shards when they aren't fully grown."
+			]
+		}
+		quest.38D0BBD5F699EF41.quest_desc: {
+			new: ["Allows the Quantum Armor piece to charge from your ME system's energy if linked to a Wireless Access Point. If placed into a Quantum Chestplate, it also recharges items in your inventory. This has a special interaction with AppliedFlux, where, if you have FE Cells in the network, it will extract energy from those."]
+			old: ["Allows the Quantum Armor piece to charge from your ME system's energy if linked to a Wireless Access Point. If placed into a Quantum Chestplate, it also recharges items in your inventory."]
+		}
+		quest.03164C4C7813CE2B.quest_desc: {
+			new: [
+				"The Quantum Computer is a powerful Crafting CPU. It is capable of running unlimited crafting jobs, and sharing co-processing threads among them, so long as it has storage available for it to use."
+				""
+				"It must be a cuboid of at least 3x3x3 size and up to 7x7x7. Alternatively: One Quantum Computer Core is capable of being a Quantum Computer by itself."
+				""
+				"A Quantum Computer Multiblock requires the following:"
+				"- No empty spaces can be present in the multiblock. They can be filled with Quantum Crafting Unit for no additional benefits."
+				"- Exactly one Quantum Computer Core"
+				"- At most one Quantum Data Entangler"
+				"- At most one Quantum Computer Multi-Threader"
+				"- All blocks on the outside layer must be Quantum Computer Structural Glass"
+				"- No blocks on the inside can be Quantum Computer Structural Glass."
+				""
+				"Hope you're ready to make a lot of Singularities."
+			]
+			old: [
+				"The Quantum Computer is a powerful Crafting CPU. It is capable of running unlimited crafting jobs, and sharing co-processing threads among them, so long as it has storage available for it to use."
+				""
+				"It must be a cuboid of at least 3x3x3 size and up to 7x7x7. Alternatively: One Quantum Computer Core is capable of being a Quantum Computer by itself."
+				""
+				"A Quantum Computer Multiblock requires the following:"
+				"- No empty spaces can be present in the multiblock. They can be filled with Quantum Crafting Unit for no additional benefits."
+				"- Exactly one Quantum Computer Core"
+				"- At most one Quantum Data Entangler"
+				"- At most one Quantum Computer Multi-Threader"
+				"- All blocks on the outside layer must be Quantum Computer Structure"
+				"- No blocks on the insite can be Quantum Computer Structure."
+				""
+				"Hope you're ready to make a lot of Singularities."
+			]
+		}
+	}
+	"chapters/generators.snbt": {
+		quest.2EE8FCB63A338BC4.quest_desc: {
+			new: [
+				"The &zRainbow Furnace&r needs quite literally every other Furnace to Craft. 8 &zRainbow Plating&r and 1 &zRainbow Core&r gives us the best Furnace we could imagine!"
+				""
+				"Yes it takes 20 Ticks to smelt or 1 Second to smelt, but it doesn't smelt 1 item. How many items you ask? How many are in a stack of items?"
+			]
+			old: [
+				"The &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&r needs quite literally every other Furnace to Craft. 8 &cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g&r and 1 &cR&6a&ei&2n&3b&9o&5w &cC&eo&3r&5e&r gives us the best Furnace we could imagine!"
+				""
+				"Yes it takes 20 Ticks to smelt or 1 Second to smelt, but it doesn't smelt 1 item. How many items you ask? How many are in a stack of items?"
+			]
+		}
+		quest.7A615E2A152917AD.title: {
+			new: "&zRainbow Core"
+			old: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3r&5e"
+		}
+		quest.062AA943A1629A86.quest_desc: {
+			new: ["You blew up the &zRainbow Furnace&r?!?! Just lit TNT right next to it? Are you mad? That took so many Furnaces and resources and you just blew it up!!! Did you atleast get something good from it? &zRainbow Coal&r? Coal that lasts a very long time? Actually that's pretty worth it."]
+			old: ["You blew up the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r?!?! Just lit TNT right next to it? Are you mad? That took so many Furnaces and resources and you just blew it up!!! Did you atleast get something good from it? &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&3a&5l&r? Coal that lasts a very long time? Actually that's pretty worth it."]
+		}
+		quest.062AA943A1629A86.title: {
+			new: "&zRainbow Coal"
+			old: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
+		}
+		quest.0ADBE90B33ACC9FB.quest_desc: {
+			new: ["The &zRainbow Generator&r is a boost to the &zRainbow Furnace&r while using &3Augment&r: Generator. If all other 9 Furnaces (not counting AllTheModium Furnaces and above) are around the &zRainbow Furnace&r, have &3Augment&r: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a &zRainbow Furnace&r that has &3Augment&r: Generator and is working. It will make 2kFE a tick more!"]
+			old: ["The &cR&6a&ei&2n&3b&9o&5w&r &cG&6e&en&2e&3r&9a&5t&ce&6r&r is a boost to the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r while using &3Augment&r: Generator. If all other 9 Furnaces (not counting AllTheModium Furnaces and above) are around the &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r, have &3Augment&r: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a &cR&6a&ei&2n&3b&9o&5w&r &cF&6u&er&2n&3a&9c&5e&r that has &3Augment&r: Generator and is working. It will make 2kFE a tick more!"]
+		}
+		quest.0AD2B11565B484E7.title: {
+			new: "&zRainbow Plating"
+			old: "&cR&6a&ei&2n&3b&9o&5w &cP&6l&ea&2t&3i&9n&5g"
+		}
+		quest.0ADBE90B33ACC9FB.title: {
+			new: "&zRainbow Generator"
+			old: "&cR&6a&ei&2n&3b&9o&5w &cG&6e&en&2e&3r&9a&5t&co&6r"
+		}
+		quest.2EE8FCB63A338BC4.title: {
+			new: "&zRainbow Furnace"
+			old: "&cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e"
+		}
+	}
+	"chapters/refined_storage.snbt": {
+		quest.01F18150EC923482.quest_desc: {
+			new: ["&3Refined Storage&r (RS or RS2) is a mass storage mod that offers a network-based storage system.\\\\n\\\\nTo get started with the mod, you'll want to make the &3Controller&r.\\\\n\\\\nThe Controller is the 'Core' of your storage network. When provided with power, it gives life to all RS components connected."]
+			old: ["&3Refined Storage&r (RS or RS2) is a mass storage mod that offers a network-based storage system.\\\\n\\\\nTo get started with the mod, you'll want to make the &3Controller&r.\\\\n\\\\nThe Controller is the 'Core' of your storage network. When provided with power, it gives life to all RS components connected. Each network can only have one Controller."]
+		}
+	}
+}
