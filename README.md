@@ -1,0 +1,15 @@
+# This is the AllTheGoons pack,
+
+## This is all a reminder on how to add mods and stuff to this pack and update it
+
+# To add mods:
+cd ~/Documents/AllTheGoons_Dev
+packwiz mr add <URL>
+packwiz cf add <URL>
+# Make sure it's SPECIFICALLY 1.21.1
+
+# To update the GitHub:
+git commit -am "<UPDATE MESSAGE HERE>"
+git push
+
+# This is how I will be updating the pack from now on. (hopefully)
