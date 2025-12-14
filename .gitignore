@@ -9,4 +9,5 @@ logs/
 crash-reports/
 local/
 
-
+# Exclude jars
+mods/*.jar
