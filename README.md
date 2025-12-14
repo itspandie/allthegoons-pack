@@ -4,12 +4,16 @@
 
 # To add mods:
 cd ~/Documents/AllTheGoons_Dev
+
 packwiz mr add <URL>
+
 packwiz cf add <URL>
+
 # Make sure it's SPECIFICALLY 1.21.1
 
 # To update the GitHub:
 git commit -am "<UPDATE MESSAGE HERE>"
+
 git push
 
 # This is how I will be updating the pack from now on. (hopefully)
