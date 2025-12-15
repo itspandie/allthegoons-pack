@@ -6,7 +6,7 @@ hash = "16b5f3cae1a99d01968b027407ad7d65a7274bf046519cfbeeb9b5e613ce69df"
 
 [[files]]
 file = "README.md"
-hash = "109b1e6811d2107a4dce966615a67e66303553c41216f342e8b1aceeed9d10ff"
+hash = "bc1c7adcba50fbf67db26fec00baebd8ad42cc57ff0e37c192d31b4e84743d4a"
 
 [[files]]
 file = "config/Advancedperipherals/general.toml"
