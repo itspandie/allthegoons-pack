@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".index.toml.kate-swp"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "b066928d8192c178df0e5992a61063f8bf3ddee90c35d2bbfb078f558b9ec40d"
 
