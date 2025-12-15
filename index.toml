@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".index.toml.kate-swp"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "b066928d8192c178df0e5992a61063f8bf3ddee90c35d2bbfb078f558b9ec40d"
 
@@ -2339,22 +2343,6 @@ hash = "7aa919ccc518ba386206f2a0a5eae9931b99f6c576c4317a90ec1396c4072cfd"
 [[files]]
 file = "config/craftingtweaks-common.toml"
 hash = "8404663a4f4206a11ae837f14b4630f1a759bcad11690fd1082237a9c9733781"
-
-[[files]]
-file = "config/crash_assistant/config.toml"
-hash = "b897d0b2d25a74d7a42bcf0a5f06f546818c84ff501843bd5c7676f7f476ebbc"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
-hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
-
-[[files]]
-file = "config/crash_assistant/modlist.json"
-hash = "b23b2854f682dc090ddf38d1559ceb3c416f8db1acf662fcdde83d93fe8e7314"
-
-[[files]]
-file = "config/crash_assistant/problematic_mods_config.json"
-hash = "ac39420512ece55a61087db09fe6c4375aa8bd02966b78716c3e3e404938f693"
 
 [[files]]
 file = "config/crashutilities-server-1.toml.bak"
@@ -20184,11 +20172,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "16e8dd4fab7436b972f80dd78e9468cde229a75c4ccbc51d834e89b6b6ddeff3"
-metafile = true
-
-[[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "579f91d789165a6497c3cd2831fe37a0c1af1380117241fa86eaf14054645906"
 metafile = true
 
 [[files]]
