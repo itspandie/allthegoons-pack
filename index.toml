@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".directory"
-hash = "16b5f3cae1a99d01968b027407ad7d65a7274bf046519cfbeeb9b5e613ce69df"
-
-[[files]]
-file = "README.md"
-hash = "bc1c7adcba50fbf67db26fec00baebd8ad42cc57ff0e37c192d31b4e84743d4a"
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "b066928d8192c178df0e5992a61063f8bf3ddee90c35d2bbfb078f558b9ec40d"
 
@@ -1087,18 +1079,6 @@ hash = "c4d0396bb7394dbd63a9a77fb20889341e375d4090e825bfb3cc2d916d7d82a7"
 [[files]]
 file = "config/ars_nouveau/rewind.toml"
 hash = "cfba46b855cf3bef2c4792b313eb9bdfc28ecdf29792ab8996fb44840d8b3009"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_19.cfe"
-hash = "e8c295999a2e228697722da205d287bd9bb542f1a7533017e861e8cc4da2290c"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_19.cfs"
-hash = "6240dc17e9f41ac4cb8f9139a595cf6c9361c9f3d64a7ca417e170544d260956"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_19.si"
-hash = "bf459d9fad2dd669e43780bf094533feed5ba7c048b39f7908bb60faf693bf28"
 
 [[files]]
 file = "config/ars_nouveau/search_index/segments_1a"
@@ -10991,10 +10971,6 @@ hash = "f54a722d0440720ddd02cddcc0516104a23dc7bcd992779039cd143ea2525306"
 [[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
-
-[[files]]
-file = "datapacks/sawmill.zip"
-hash = "a393ff2854dfe4891300b7737707ebd94bf9a74a03bb725caf27c5ebeb501fa3"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
